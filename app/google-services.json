@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "737512690054",
+    "project_id": "global-student-153107"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:737512690054:android:47b86becf6946a77",
+        "android_client_info": {
+          "package_name": "com.mofosys.project.gpluslogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "737512690054-ml6cu8m2rlk76brp0bkibf341giruq0t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mofosys.project.gpluslogin",
+            "certificate_hash": "1F0894AA5F55945DB2A4BF6DE5CC06B2E14A2D2B"
+          }
+        },
+        {
+          "client_id": "737512690054-o2oofn63vo6usdrcpdbn44b7dgf9rk53.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmkKj38A5dE80RduHiC0NIrQsn2quaOPY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
